@@ -1,1 +1,1 @@
-*cheat sheet for programs
+*Cheat sheet for programs*
